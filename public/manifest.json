@@ -1,0 +1,19 @@
+{
+  "name": "Florería Valentina",
+  "short_name": "Flor. Valentina",
+  "description": "Arreglos florales artesanales en CDMX para bodas, eventos y regalos",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdf8f5",
+  "theme_color": "#be185d",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "lang": "es-MX",
+  "categories": ["shopping", "lifestyle"]
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://floreria-starter.luishdz.dev/sitemap.xml
