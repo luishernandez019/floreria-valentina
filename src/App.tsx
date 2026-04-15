@@ -2,7 +2,6 @@ import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import Servicios from './components/Includes'
 import Galeria from './components/HowItWorks'
-import Nosotros from './components/PricingCard'
 import ContactForm from './components/ContactForm'
 import Footer from './components/Footer'
 import WhatsAppFloat from './components/WhatsAppFloat'
@@ -22,8 +21,7 @@ export default function App() {
         <Hero />
         <Servicios />
         <Galeria />
-        <Nosotros />
-        <ContactForm />
+<ContactForm />
       </main>
       <Footer />
       <WhatsAppFloat />
